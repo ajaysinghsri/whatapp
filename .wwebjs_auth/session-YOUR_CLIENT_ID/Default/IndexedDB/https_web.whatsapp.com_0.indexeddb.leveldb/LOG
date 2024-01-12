@@ -1,0 +1,24 @@
+2024/01/12-12:18:38.545 79c Reusing MANIFEST D:\NODEJS-ABHIWARAN-TUTORIAL\chatbot\.wwebjs_auth\session-YOUR_CLIENT_ID\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/12-12:18:38.546 79c Recovering log #457
+2024/01/12-12:18:38.641 79c Reusing old log D:\NODEJS-ABHIWARAN-TUTORIAL\chatbot\.wwebjs_auth\session-YOUR_CLIENT_ID\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000457.log 
+2024/01/12-12:18:49.654 5798 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/12-12:27:56.391 7ac0 Level-0 table #466: started
+2024/01/12-12:27:56.443 7ac0 Level-0 table #466: 1189428 bytes OK
+2024/01/12-12:27:56.447 7ac0 Delete type=0 #457
+2024/01/12-12:30:44.036 a20 Compacting 1@1 + 7@2 files
+2024/01/12-12:30:44.277 a20 Generated table #467@1: 51232 keys, 2222835 bytes
+2024/01/12-12:30:44.348 a20 Generated table #468@1: 5261 keys, 2156333 bytes
+2024/01/12-12:30:44.410 a20 Generated table #469@1: 2511 keys, 2153832 bytes
+2024/01/12-12:30:44.604 a20 Generated table #470@1: 29001 keys, 2251034 bytes
+2024/01/12-12:30:44.765 a20 Generated table #471@1: 48023 keys, 2193459 bytes
+2024/01/12-12:30:45.002 a20 Generated table #472@1: 89456 keys, 2035836 bytes
+2024/01/12-12:30:45.002 a20 Compacted 1@1 + 7@2 files => 13013329 bytes
+2024/01/12-12:30:45.003 a20 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/01/12-12:30:45.004 a20 Delete type=2 #455
+2024/01/12-12:30:45.004 a20 Delete type=2 #456
+2024/01/12-12:30:45.004 a20 Delete type=2 #459
+2024/01/12-12:30:45.004 a20 Delete type=2 #460
+2024/01/12-12:30:45.004 a20 Delete type=2 #461
+2024/01/12-12:30:45.004 a20 Delete type=2 #462
+2024/01/12-12:30:45.004 a20 Delete type=2 #463
+2024/01/12-12:30:45.004 a20 Delete type=2 #466

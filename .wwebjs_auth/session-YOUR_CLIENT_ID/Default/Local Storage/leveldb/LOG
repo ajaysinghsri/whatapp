@@ -1,0 +1,6 @@
+2024/01/12-12:18:37.258 4958 Reusing MANIFEST D:\NODEJS-ABHIWARAN-TUTORIAL\chatbot\.wwebjs_auth\session-YOUR_CLIENT_ID\Default\Local Storage\leveldb/MANIFEST-000001
+2024/01/12-12:18:37.268 4958 Recovering log #6
+2024/01/12-12:18:37.272 4958 Reusing old log D:\NODEJS-ABHIWARAN-TUTORIAL\chatbot\.wwebjs_auth\session-YOUR_CLIENT_ID\Default\Local Storage\leveldb/000006.log 
+2024/01/12-12:20:38.160 4958 Level-0 table #10: started
+2024/01/12-12:20:38.165 4958 Level-0 table #10: 20668 bytes OK
+2024/01/12-12:20:38.169 4958 Delete type=0 #6
